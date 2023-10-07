@@ -24,4 +24,4 @@ Read the rules and necessary agreements.
   `git clone https://github.com/mvp-2003/O1S-HCF-23.git`
 - Start contributing by adding new stuffs or improving the existing codebases. No-code or low-code contributions are equally valued. Also do follow the `Issues` tab.
 - After doing the contributions, make sure to commit and merge the changes to your branch after which you can raise a 'Pull Request'.
-- Start a new PR and it will be looke upon.
+- Start a new PR and it will be looked upon.
