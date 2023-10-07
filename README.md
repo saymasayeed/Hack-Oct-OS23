@@ -1,4 +1,5 @@
-# O1S-HCF-23
+# Hack-Oct-OS23
+
 Hacktober Fest 2023 for Open Source
 
 # Hactoberfest sign-up
