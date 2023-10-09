@@ -1,4 +1,5 @@
 import os
-import shutil
 
-dir = 
+dir = 'Path'
+gdir = os.getenv()
+print(gdir)
