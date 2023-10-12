@@ -15,6 +15,8 @@ Read the rules and necessary agreements.
 
 # Getting Started ⭐
 
+Do take some time to go through the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
 - Make sure `git` is installed on your system.\
   You can check that by using \
   `git --version`\
